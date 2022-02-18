@@ -1,0 +1,51 @@
+.centralize{ 
+	display:block;
+	margin: 0 auto;
+	 width:50%; 
+	 height:5%;
+ }
+  
+ .ticket{
+	 outline: 1px solid black;
+	 margin:50px;
+	border-radius:10px; 
+	background-color:rgb(29, 29, 29);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color:white;
+ }
+ 
+ .ticket h2{
+	 background-color:black;
+	 color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align:center;
+	border-bottom:2px solid white;
+ }
+ 
+ .ticket h2 button{
+	border:none;
+	color:white;
+	background-color:black; 
+ }
+ 
+ .ticket h2 button:hover{ 
+	 color:gray;
+	 border:none;	 
+	 cursor: pointer;
+ }
+
+ .ticket h3{
+	background-color:black;
+	color:white;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align:center;
+   border-bottom:2px solid white;
+	 
+ }
+
+ .author{
+	 background-color:rgb(31, 31, 31);
+	 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	 text-align: center;
+	 border-bottom:2px solid white;
+ }

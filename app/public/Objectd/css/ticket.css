@@ -1,0 +1,60 @@
+p{
+	text-align:center;
+}
+
+textarea{
+	display:block;
+	margin:0 auto;
+	width:50%;
+}
+
+select{
+	display:block;
+	margin:0 auto;
+	width:50%;
+}
+
+.arquivos{
+	display: block;
+	margin: 0 auto;
+	width: 50%; 
+}
+
+nav{ 
+	background-color: rgb(190, 194, 255); 
+	border-bottom: 1px solid black;
+}
+
+.ButtonLogin{ 
+	display: block; 
+	margin-left: auto;
+	text-decoration: none;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	color: white; 
+	padding: 1%;  
+	width: 5%;
+	border: 1px solid black; 
+}
+
+.ButtonLogin:hover{ 
+	background-color: rgb(153, 156, 202); 
+}
+.ButtonLogin:active{ 
+	background-color: rgb(117, 119, 151); 
+}
+
+.Username{ 
+	text-align: right;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	padding: 1%;   
+	color: white; 
+}
+
+.scroll{
+	margin:4px,4px;
+	padding:4px;
+	overflow-y:auto;
+	overflow-x:auto; 
+	height: 400px;
+	text-align: justify;
+}
